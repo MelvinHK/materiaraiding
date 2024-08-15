@@ -199,7 +199,7 @@ Please refer to full guide.
 [Full TEA OCE Guide](/tea){: .btn }
 </details>
 
-<a href=".\assets\images\cheatsheets\teacheatsheet.webp" target="_blank"><img src=".\assets\images\cheatsheets\tescheatsheet.webp"></a>
+<a href=".\assets\images\cheatsheets\teacheatsheet.webp" target="_blank"><img src=".\assets\images\cheatsheets\teacheatsheet.webp"></a>
 
 ## DSR
 OCE DSR Strats are a variation on NA PF strats.
